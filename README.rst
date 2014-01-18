@@ -14,7 +14,7 @@ requests are unlikely to get merged into this repo.
 Installation
 ------------
 
-I use mysql.connector instead of mysql.connector to support Python 3.x.
+I use mysql.connector instead of mysql-python to support Python 3.x.
 
 Documentation
 -------------
